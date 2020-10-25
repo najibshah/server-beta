@@ -1,0 +1,10 @@
+Use the express routes so we can have seperate files for basically each of our resources
+we're gonna have three main resources
+users 
+profiles
+posts 
+,all seperate file becasue we dont wanna stick all of the routes in one file. that will be too messy
+
+
+we wanna find email that matches 
+we access it with req.body.whatever the form the input name is
